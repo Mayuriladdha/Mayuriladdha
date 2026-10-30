@@ -19,9 +19,9 @@ I turn raw data into clear insights using Python, SQL, and machine learning. I'm
 
 | Project | What I did | Result |
 |---|---|---|
-| [Netflix Movies & TV Shows Clustering](https://github.com/Mayuriladdha/Data-science-project/blob/main/ML_Unsupervised_ML_Netflix_Movies_and_TV_Shows_Clustering.ipynb) | Unsupervised ML to group titles by content features | Grouped [X] titles into [N] clusters using [K-Means / hierarchical], e.g. [one finding] |
-| [Amazon Prime TV Shows & Movies EDA](https://github.com/Mayuriladdha/Data-science-project/blob/main/EDA_project_of_Amazon_Prime_TV_Shows_and_Movies.ipynb) | Exploratory analysis of the Prime catalogue | Found that [key insight, e.g. most content is from year/genre/country] |
-| [Google Play Store App EDA](https://github.com/Mayuriladdha/Data-science-project/blob/main/EDA_Submission_Template_google_play_app.ipynb) | Analysed app categories, ratings, and installs | Found that [key insight, e.g. which category has the highest ratings/installs] |
+| [Netflix Movies & TV Shows Clustering](https://github.com/Mayuriladdha/netflix-content-clustering.git) | Unsupervised ML to group titles by content features | Grouped [X] titles into [N] clusters using [K-Means / hierarchical], e.g. [one finding] |
+| [Amazon Prime TV Shows & Movies EDA](https://github.com/Mayuriladdha/amazon-prime-content-eda.git) | Exploratory analysis of the Prime catalogue | Found that [key insight, e.g. most content is from year/genre/country] |
+| [Google Play Store App EDA](https://github.com/Mayuriladdha/google-play-store-eda.git) | Analysed app categories, ratings, and installs | Found that [key insight, e.g. which category has the highest ratings/installs] |
 
 ---
 

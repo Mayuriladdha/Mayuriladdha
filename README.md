@@ -34,5 +34,5 @@ I turn raw data into clear insights using Python, SQL, and machine learning. I'm
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [linkedin.com/in/mayuri-laddha-135938404](https://www.linkedin.com/in/mayuri-laddha-135938404)
+- 💼 LinkedIn: [www.linkedin.com/in/mayuri-laddha-979693176](www.linkedin.com/in/mayuri-laddha-979693176)
 - 📧 Email: mayuriladdha1111@gmail.com
